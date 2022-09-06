@@ -41,6 +41,6 @@ Thoughts Routes:
   Project is licensed under MIT license
   [License: MIT](https://opensource.org/licenses/MIT)
 ## Credits
-The weeks module really helped in finishing this project
-Dateformat code from Module 18 
+The weeks module really helped in finishing this project<br>
+Dateformat code from Module 18 <br>
 For Validate Email this is what helped me to get it done: [theWebdev](https://thewebdev.info/2022/03/16/how-to-validate-email-syntax-with-mongoose/)
